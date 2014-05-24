@@ -3,7 +3,7 @@
  * Expose `Emitter`.
  */
 
-module.exports = Emitter;
+module.exports.EventEmitter = Emitter;
 
 /**
  * Initialize a new `Emitter`.

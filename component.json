@@ -1,5 +1,5 @@
 {
-  "name": "emitter",
+  "name": "events",
   "repo": "component/emitter",
   "description": "Event emitter",
   "keywords": [
